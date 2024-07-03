@@ -1,20 +1,20 @@
 [
     {
         "name": "ASIM",
-        "description": "Versão mobile do ASIWEB para consultas rapidas de materias. O banco de dados é um snapshot baixado da relação de bens do proprio ASIWEB.",
+        "description": "Versão mobile do ASIWEB para consultas rápidas de materiais. O banco de dados é um snapshot baixado da relação de bens do próprio ASIWEB.",
         "icon_url": "https://github.com/ils94/app/blob/main/icones/asi.png?raw=true",
         "download_url": "https://github.com/ils94/app/releases/download/a/asiwebmobile.apk"
     },
     {
-        "name": "App2",
-        "description": "Description of App2",
+        "name": "Levantamento",
+        "description": "Aplicativo para auxiliar na realização de inventário. É possível carregar uma lista de bens com descrição e patrimônio para fazer uma rápida checagem, apenas lendo o código de barras das plaquetas ou digitando manualmente o número do patrimônio. Assim que finalizar o levantamento, é possível gerar um relatório completo de inventário.",
         "icon_url": "https://example.com/app2_icon.png",
-        "download_url": "https://example.com/app2.apk"
+        "download_url": "https://github.com/ils94/app/releases/download/sepat-levantamento/sepat-levantamento.apk"
     },
 	{
-        "name": "App3",
-        "description": "Description of App3",
+        "name": "Scanner",
+        "description": "Aplicativo para auxiliar na coleta de patrimônios e números de série. Também é possível utilizá-lo como lista de checagem, carregando no app uma lista de patrimônios para rápida averiguação.",
         "icon_url": "https://example.com/app3_icon.png",
-        "download_url": "https://example.com/app3.apk"
+        "download_url": "https://github.com/ils94/app/releases/download/sepat-scanner/sepat-scanner.apk"
     }
 ]
