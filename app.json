@@ -1,0 +1,20 @@
+[
+    {
+        "name": "ASIM",
+        "description": "Versão mobile do ASIWEB para consultas rapidas de materias. O banco de dados é um snapshot baixado da relação de bens do proprio ASIWEB.",
+        "icon_url": "https://github.com/ils94/app/blob/main/icones/asi.png?raw=true",
+        "download_url": "https://github.com/ils94/app/releases/download/a/asiwebmobile.apk"
+    },
+    {
+        "name": "App2",
+        "description": "Description of App2",
+        "icon_url": "https://example.com/app2_icon.png",
+        "download_url": "https://example.com/app2.apk"
+    },
+	{
+        "name": "App3",
+        "description": "Description of App3",
+        "icon_url": "https://example.com/app3_icon.png",
+        "download_url": "https://example.com/app3.apk"
+    }
+]
