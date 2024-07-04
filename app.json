@@ -9,12 +9,12 @@
         "name": "SEPAT Levantamento",
         "description": "Aplicativo para auxiliar na realização de inventário. É possível carregar uma lista de bens com descrição e patrimônio para fazer uma rápida checagem, apenas lendo o código de barras das plaquetas ou digitando manualmente o número do patrimônio. Assim que finalizar o levantamento, é possível gerar um relatório completo de inventário.",
         "icon_url": "https://raw.githubusercontent.com/ils94/app/main/icones/levantamento.png",
-        "download_url": "https://github.com/ils94/app/releases/download/sepat-levantamento/sepat-levantamento.apk"
+        "download_url": "https://github.com/ils94/app/releases/download/sepatlevantamento/sepatlevantamento.apk"
     },
 	{
         "name": "SEPAT Scanner",
         "description": "Aplicativo para auxiliar na coleta de patrimônios e números de série. Também é possível utilizá-lo como lista de checagem, carregando no app uma lista de patrimônios para rápida averiguação.",
         "icon_url": "https://raw.githubusercontent.com/ils94/app/main/icones/scanner.png",
-        "download_url": "https://github.com/ils94/app/releases/download/sepat-scanner/sepat-scanner.apk"
+        "download_url": "https://github.com/ils94/app/releases/download/sepatscanner/sepatscanner.apk"
     }
 ]
