@@ -16,5 +16,11 @@
         "description": "Aplicativo para auxiliar na coleta de patrimônios e números de série. Também é possível utilizá-lo como lista de checagem, carregando no app uma lista de patrimônios para rápida averiguação.",
         "icon_url": "https://raw.githubusercontent.com/ils94/app/main/icones/scanner.png",
         "download_url": "https://github.com/ils94/app/releases/download/sepatscanner/sepatscanner.apk"
+    },
+	{
+        "name": "Manutenção UE",
+        "description": "Aplicativo para auxiliar na rápida comunicação durante a abertura dos chamados das urnas eletrônicas.",
+        "icon_url": "https://github.com/ils94/app/blob/main/icones/manutencaoue.png",
+        "download_url": "https://github.com/ils94/app/releases/download/manutencaoue/manutencaoue.apk"
     }
 ]
