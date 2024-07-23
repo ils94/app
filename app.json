@@ -20,7 +20,7 @@
 	{
         "name": "Manutenção UE",
         "description": "Aplicativo para auxiliar na rápida comunicação durante a abertura dos chamados das urnas eletrônicas.",
-        "icon_url": "https://github.com/ils94/app/blob/main/icones/manutencaoue.png",
+        "icon_url": "https://raw.githubusercontent.com/ils94/app/main/icones/manutencaoue.png",
         "download_url": "https://github.com/ils94/app/releases/download/manutencaoue/manutencaoue.apk"
     }
 ]
