@@ -13,7 +13,7 @@
     },
 	{
         "name": "SEPAT Scanner",
-        "description": "Aplicativo para auxiliar na coleta de patrimônios e números de série. Também é possível utilizá-lo como lista de checagem, carregando no app uma lista de patrimônios para rápida averiguação.",
+        "description": "Aplicativo para auxiliar na coleta de patrimônios e números de série.",
         "icon_url": "https://raw.githubusercontent.com/ils94/app/main/icones/scanner.png",
         "download_url": "https://github.com/ils94/app/releases/download/sepatscanner/sepatscanner.apk"
     },
